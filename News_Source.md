@@ -1,13 +1,62 @@
 # 业内常用新闻源
 
+## 国外新闻
+
+
+* [Nature News](http://www.nature.com/news/)
+
+
+* [Science Latest News](http://www.sciencemag.org/news/latest-news)
+
+
+## 顶尖杂志提前发表
+
+
+* [Cell New Articles](http://www.cell.com/cell/newarticles)
+
+
+* [Nature Biological Sciences](http://www.nature.com/nature/research/biological-sciences.html)
+
+
+## 顶尖杂志当期内容
+
+
+* [Cell Current](http://www.cell.com/cell/current)
+
+
+* [Nature Current](http://www.nature.com/nature/current_issue.html)
+
+
+* [Science Current](http://science.sciencemag.org/)
+
 
 ## 杂志
+
+
+* [Cell](http://www.cell.com/)
 
 
 * [Science](http://www.sciencemag.org/)
 
 
 * [Nature](http://www.nature.com/)
+
+
+* [自然](http://www.natureasia.com/zh-cn/)
+
+
+* [PNAS](http://www.pnas.org/)
+
+
+## 科普网站
+
+* [Science Daily](http://www.sciencedaily.com/)
+
+
+* [Science Alert](http://www.sciencealert.com/)
+
+
+* [Live Science](http://www.livescience.com/)
 
 
 * [The Scientist](http://www.the-scientist.com/)
@@ -19,13 +68,7 @@
 * [Science News](http://www.sciencenews.org/)
 
 
-* [Science Daily](http://www.sciencedaily.com/)
-
-
 * [New Scientist](http://www.newscientist.com/)
-
-
-* [自然](http://www.natureasia.com/zh-cn/)
 
 
 * [Phys.org](http://phys.org/)
@@ -43,13 +86,22 @@
 * [Discover](http://discovermagazine.com/)
 
 
- * [科学新闻杂志－服务职业科学家](http://www.science-weekly.cn/)
+* [科学新闻杂志－服务职业科学家](http://www.science-weekly.cn/)
 
 
 * [《科学》杂志 创刊于1915年的高级科普期刊](http://www.kexuemag.com/Article/Index.asp)
 
 
 * [科學月刊](http://scimonth.blogspot.tw)
+
+
+## 国外行业网站
+
+
+* [Fierce Biotech](http://www.fiercebiotech.com/)
+
+
+* [Genome Web](https://www.genomeweb.com/)
 
 
 ## 门户
