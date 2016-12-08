@@ -59,6 +59,9 @@
 * [Live Science](http://www.livescience.com/)
 
 
+* [Medical Xpress](http://medicalxpress.com/)
+
+
 * [The Scientist](http://www.the-scientist.com/)
 
 
