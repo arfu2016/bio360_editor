@@ -9,6 +9,9 @@
 * [Science Latest News](http://www.sciencemag.org/news/latest-news)
 
 
+* [Science News](http://www.sciencenews.org/)
+
+
 ## 顶尖杂志提前发表
 
 
@@ -66,9 +69,6 @@
 
 
 * [Scientific American](http://www.scientificamerican.com/)
-
-
-* [Science News](http://www.sciencenews.org/)
 
 
 * [New Scientist](http://www.newscientist.com/)
