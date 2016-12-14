@@ -56,6 +56,9 @@
 * [Science Daily](http://www.sciencedaily.com/)
 
 
+* [Stat](https://www.statnews.com/)
+
+
 * [Science Alert](http://www.sciencealert.com/)
 
 
