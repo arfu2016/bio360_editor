@@ -110,6 +110,9 @@
 * [Genome Web](https://www.genomeweb.com/)
 
 
+* [GEN](http://www.genengnews.com/)
+
+
 ## 门户
 
 
